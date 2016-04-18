@@ -3,6 +3,8 @@ layout: default
 permalink: /
 ---
 
+# Course Syllabus
+
 **University of xxx**
 
 **College**
