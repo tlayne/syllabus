@@ -5,19 +5,19 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**University of Lamar**
 
-**College**
+**Arts and Humanities**
 
 **Unit**
 
-## Course Number: Course Title
+## Arts 1301: History of the Arts
 
 **Semester Year**
 
 
 **Instructor: **Dr. ××**   
-**Office**: Building Number  
+**Office**: Room 109 
 **Email**:  
 
 **Phone**:  
